@@ -14,4 +14,7 @@ a{
 }
 .croissants {
     max-width: 500px;
+    border-radius: 10px;
+    margin: 30px 0;
+    display: block;
 }
